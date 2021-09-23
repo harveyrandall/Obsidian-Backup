@@ -1,7 +1,7 @@
 {
   "commitMessage": "no isolation vault backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 5,
+  "autoSaveInterval": 180,
   "autoPullInterval": 15,
   "autoPullOnBoot": false,
   "disablePush": false,
